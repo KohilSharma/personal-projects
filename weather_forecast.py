@@ -1,3 +1,6 @@
+"""This program collects weather info for the next week from a web API and prints that out."""
+
+
 import requests
 
 API_ROOT = 'https://www.metaweather.com'
